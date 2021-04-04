@@ -1,0 +1,7 @@
+print("โปรแกรมคำนวณ บวก ลบ คูณ หาร ")
+Number1 = int(input("โปรดระบุตัวเลข : "))
+Number2 = int(input("โปรดระบุตัวเลข : "))
+print(Number1,"+",Number2,"=",Number1+Number2)
+print(Number1,"-",Number2,"=",Number1-Number2)
+print(Number1,"x",Number2,"=",Number1*Number2)
+print(Number1,"/",Number2,"=",int(Number1/Number2))
